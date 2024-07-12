@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/cart-react/static/css/main.ec313818.css",
-    "main.js": "/cart-react/static/js/main.a4e81845.js",
-    "index.html": "/cart-react/index.html",
-    "main.ec313818.css.map": "/cart-react/static/css/main.ec313818.css.map",
-    "main.a4e81845.js.map": "/cart-react/static/js/main.a4e81845.js.map"
+    "main.css": "/Fast-React-Pizza-Co/static/css/main.ec313818.css",
+    "main.js": "/Fast-React-Pizza-Co/static/js/main.a4e81845.js",
+    "index.html": "/Fast-React-Pizza-Co/index.html",
+    "main.ec313818.css.map": "/Fast-React-Pizza-Co/static/css/main.ec313818.css.map",
+    "main.a4e81845.js.map": "/Fast-React-Pizza-Co/static/js/main.a4e81845.js.map"
   },
   "entrypoints": [
     "static/css/main.ec313818.css",
