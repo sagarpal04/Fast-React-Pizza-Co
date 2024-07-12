@@ -122,7 +122,7 @@ function Pizza({ pizzaObj }) {
 }
 function Footer() {
   const hours = new Date().getHours();
-  const openHour = 0;
+  const openHour = 8;
   const closeHour = 22;
   const isOpen = hours >= openHour && hours <= closeHour;
   return (
